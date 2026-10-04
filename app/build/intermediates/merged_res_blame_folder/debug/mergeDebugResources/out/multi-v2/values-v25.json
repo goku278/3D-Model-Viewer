@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.modelviewer.app-mergeDebugResources-42:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rionc\\.gradle\\caches\\8.13\\transforms\\2f7cfddfb1ffd78f032ac8ba8fb1c276\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

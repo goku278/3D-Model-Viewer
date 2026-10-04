@@ -1,0 +1,48 @@
+com.example.modelviewer.app-material-0 C:\Users\rionc\.gradle\caches\8.13\transforms\012b11a06472ee2461e3c2a18f907b77\transformed\material\res
+com.example.modelviewer.app-activity-ktx-1.11.0-1 C:\Users\rionc\.gradle\caches\8.13\transforms\0212ccaa929f6b08f4485767254d1585\transformed\activity-ktx-1.11.0\res
+com.example.modelviewer.app-lifecycle-runtime-release-2 C:\Users\rionc\.gradle\caches\8.13\transforms\06fba9189f3b17d968e78c55661380d1\transformed\lifecycle-runtime-release\res
+com.example.modelviewer.app-lifecycle-viewmodel-ktx-2.9.3-3 C:\Users\rionc\.gradle\caches\8.13\transforms\106b993606a7ca004d28bbd08f819a49\transformed\lifecycle-viewmodel-ktx-2.9.3\res
+com.example.modelviewer.app-play-services-basement-18.4.0-4 C:\Users\rionc\.gradle\caches\8.13\transforms\143d29330145279a6c32248230597f60\transformed\play-services-basement-18.4.0\res
+com.example.modelviewer.app-lifecycle-livedata-2.9.3-5 C:\Users\rionc\.gradle\caches\8.13\transforms\1e58d4c8d8b071039ff917886a221e07\transformed\lifecycle-livedata-2.9.3\res
+com.example.modelviewer.app-appcompat-resources-1.6.1-6 C:\Users\rionc\.gradle\caches\8.13\transforms\24b95bd9104194232dfa34345cb0a9b9\transformed\appcompat-resources-1.6.1\res
+com.example.modelviewer.app-emoji2-views-helper-1.4.0-7 C:\Users\rionc\.gradle\caches\8.13\transforms\252805e3529e3b5cf577b1cf1b9635fe\transformed\emoji2-views-helper-1.4.0\res
+com.example.modelviewer.app-appcompat-1.6.1-8 C:\Users\rionc\.gradle\caches\8.13\transforms\2f7cfddfb1ffd78f032ac8ba8fb1c276\transformed\appcompat-1.6.1\res
+com.example.modelviewer.app-activity-compose-1.11.0-9 C:\Users\rionc\.gradle\caches\8.13\transforms\37a4a4296b8903641ab2da02099188c1\transformed\activity-compose-1.11.0\res
+com.example.modelviewer.app-savedstate-ktx-1.3.1-10 C:\Users\rionc\.gradle\caches\8.13\transforms\39adf3e56e70b4a07dee7076ab9186c6\transformed\savedstate-ktx-1.3.1\res
+com.example.modelviewer.app-annotation-experimental-1.4.1-11 C:\Users\rionc\.gradle\caches\8.13\transforms\39e079a1f1138ca473ccb57ca669b7a1\transformed\annotation-experimental-1.4.1\res
+com.example.modelviewer.app-lifecycle-process-2.9.3-12 C:\Users\rionc\.gradle\caches\8.13\transforms\3bdc81556c9548f640877943139ac4b1\transformed\lifecycle-process-2.9.3\res
+com.example.modelviewer.app-fragment-1.9.0-13 C:\Users\rionc\.gradle\caches\8.13\transforms\3eaae8861ddac96b3a7157ff325eb513\transformed\fragment-1.9.0\res
+com.example.modelviewer.app-ui-release-14 C:\Users\rionc\.gradle\caches\8.13\transforms\3f23ce1b52d45ae92abd3451899f5817\transformed\ui-release\res
+com.example.modelviewer.app-core-1.15.0-15 C:\Users\rionc\.gradle\caches\8.13\transforms\4f05cefe1fa463d4c31dd40e2e2777a2\transformed\core-1.15.0\res
+com.example.modelviewer.app-lifecycle-viewmodel-release-16 C:\Users\rionc\.gradle\caches\8.13\transforms\50f08e549a9eb36b7b1c4af68c226b5c\transformed\lifecycle-viewmodel-release\res
+com.example.modelviewer.app-filament-android-1.72.1-17 C:\Users\rionc\.gradle\caches\8.13\transforms\513c45dcecb78472b1f3d2482f0e0a9c\transformed\filament-android-1.72.1\res
+com.example.modelviewer.app-graphics-path-1.0.1-18 C:\Users\rionc\.gradle\caches\8.13\transforms\5b450a6fbc8ca2aff5855534bad9882d\transformed\graphics-path-1.0.1\res
+com.example.modelviewer.app-savedstate-release-19 C:\Users\rionc\.gradle\caches\8.13\transforms\5dcaa10b864d49f84fad7b56d00bc76a\transformed\savedstate-release\res
+com.example.modelviewer.app-lifecycle-livedata-core-2.9.3-20 C:\Users\rionc\.gradle\caches\8.13\transforms\5e28d017d91858e0843fa7719d759d5f\transformed\lifecycle-livedata-core-2.9.3\res
+com.example.modelviewer.app-customview-poolingcontainer-1.0.0-21 C:\Users\rionc\.gradle\caches\8.13\transforms\7fd1fe30e2068ecd8c3e62501d8c40eb\transformed\customview-poolingcontainer-1.0.0\res
+com.example.modelviewer.app-core-ktx-1.15.0-22 C:\Users\rionc\.gradle\caches\8.13\transforms\836dd5c98c679ef1d0a4df78151c9a25\transformed\core-ktx-1.15.0\res
+com.example.modelviewer.app-core-viewtree-1.0.0-23 C:\Users\rionc\.gradle\caches\8.13\transforms\90c977e64387e53aae58dabb8c08b817\transformed\core-viewtree-1.0.0\res
+com.example.modelviewer.app-lifecycle-runtime-compose-release-24 C:\Users\rionc\.gradle\caches\8.13\transforms\9c75cdf5db6ce1a7322b8d2fc21e9928\transformed\lifecycle-runtime-compose-release\res
+com.example.modelviewer.app-lifecycle-viewmodel-savedstate-release-25 C:\Users\rionc\.gradle\caches\8.13\transforms\a49338db227c98c21a2703e03a6c21dd\transformed\lifecycle-viewmodel-savedstate-release\res
+com.example.modelviewer.app-play-services-base-18.5.0-26 C:\Users\rionc\.gradle\caches\8.13\transforms\a5a9da2e140d7a23891f393b8c4c9873\transformed\play-services-base-18.5.0\res
+com.example.modelviewer.app-core-runtime-2.2.0-27 C:\Users\rionc\.gradle\caches\8.13\transforms\ac5f9ed454ba56aff62ca9a592a077fd\transformed\core-runtime-2.2.0\res
+com.example.modelviewer.app-savedstate-compose-release-28 C:\Users\rionc\.gradle\caches\8.13\transforms\acd070fd81bb4aa58edd2854f45cf5ca\transformed\savedstate-compose-release\res
+com.example.modelviewer.app-profileinstaller-1.4.0-29 C:\Users\rionc\.gradle\caches\8.13\transforms\b617bce1cf9937e1cf5a5b4a19c1aa38\transformed\profileinstaller-1.4.0\res
+com.example.modelviewer.app-lifecycle-livedata-core-ktx-2.9.3-30 C:\Users\rionc\.gradle\caches\8.13\transforms\b7a1fc8498d8d1e977bfc1c317b235ae\transformed\lifecycle-livedata-core-ktx-2.9.3\res
+com.example.modelviewer.app-startup-runtime-1.1.1-31 C:\Users\rionc\.gradle\caches\8.13\transforms\c15d4003e7ee5a9321260c131a9270d8\transformed\startup-runtime-1.1.1\res
+com.example.modelviewer.app-material-icons-core-release-32 C:\Users\rionc\.gradle\caches\8.13\transforms\c17a99fc207da0056cc98a18228ddd90\transformed\material-icons-core-release\res
+com.example.modelviewer.app-foundation-release-33 C:\Users\rionc\.gradle\caches\8.13\transforms\d3524b904d2e699494b8f3e6cf09e709\transformed\foundation-release\res
+com.example.modelviewer.app-fragment-ktx-1.9.0-34 C:\Users\rionc\.gradle\caches\8.13\transforms\e10188ff8948e8f16349eadc22381bf9\transformed\fragment-ktx-1.9.0\res
+com.example.modelviewer.app-material-icons-extended-release-35 C:\Users\rionc\.gradle\caches\8.13\transforms\e72ba82def6b088e191024e2f278bf1b\transformed\material-icons-extended-release\res
+com.example.modelviewer.app-emoji2-1.4.0-36 C:\Users\rionc\.gradle\caches\8.13\transforms\e9935931d51361fdc52c3169f68a05ca\transformed\emoji2-1.4.0\res
+com.example.modelviewer.app-activity-1.11.0-37 C:\Users\rionc\.gradle\caches\8.13\transforms\ed0193bc7b6055ee4dc2cd3c3e94ee12\transformed\activity-1.11.0\res
+com.example.modelviewer.app-ui-graphics-release-38 C:\Users\rionc\.gradle\caches\8.13\transforms\fcdf9db4f95116f5ef6229219e3069bb\transformed\ui-graphics-release\res
+com.example.modelviewer.app-material3-release-39 C:\Users\rionc\.gradle\caches\8.13\transforms\fd4e056aa23f1b98daf327292ca49868\transformed\material3-release\res
+com.example.modelviewer.app-pngs-40 C:\Users\rionc\Desktop\ANDROID PROJECT\ModelViewerCompose\app\build\generated\res\pngs\debug
+com.example.modelviewer.app-resValues-41 C:\Users\rionc\Desktop\ANDROID PROJECT\ModelViewerCompose\app\build\generated\res\resValues\debug
+com.example.modelviewer.app-updated_navigation_xml-42 C:\Users\rionc\Desktop\ANDROID PROJECT\ModelViewerCompose\app\build\generated\updated_navigation_xml\debug
+com.example.modelviewer.app-packageDebugResources-43 C:\Users\rionc\Desktop\ANDROID PROJECT\ModelViewerCompose\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.modelviewer.app-packageDebugResources-44 C:\Users\rionc\Desktop\ANDROID PROJECT\ModelViewerCompose\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.modelviewer.app-debug-45 C:\Users\rionc\Desktop\ANDROID PROJECT\ModelViewerCompose\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.modelviewer.app-debug-46 C:\Users\rionc\Desktop\ANDROID PROJECT\ModelViewerCompose\app\src\debug\res
+com.example.modelviewer.app-main-47 C:\Users\rionc\Desktop\ANDROID PROJECT\ModelViewerCompose\app\src\main\res
