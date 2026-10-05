@@ -28,6 +28,23 @@ android {
     }
 
     buildFeatures { compose = true }
+
+    buildTypes {
+        release {
+            isMinifyEnabled = true
+            isShrinkResources = true
+
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
+            )
+        }
+
+        debug {
+            isMinifyEnabled = false
+        }
+    }
+
     android {
         compileOptions {
             sourceCompatibility = JavaVersion.VERSION_21
